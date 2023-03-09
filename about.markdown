@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-My name is Yue Yang. I am a game developer. 
+My name is Yue Yang. I am a game developer.
 
 ## Project
 
- - [ChatGPT Siri](https://github.com/Yue-Yang/ChatGPT-Siri) : Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & save chat records. 
+ - <a href="https://github.com/Yue-Yang/ChatGPT-Siri" target="_blank">ChatGPT Siri</a>: Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & save chat records.
 
 ## Contact
 
-- GitHub: [@Yue-Yang](https://github.com/Yue-Yang)
-- Twitter: [@YueYangDev](https://twitter.com/YueYangDev)
+- GitHub: <a href="https://github.com/Yue-Yang" target="_blank">@Yue-Yang</a>
+- Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
 - WeChat: YueYangDev
