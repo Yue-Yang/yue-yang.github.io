@@ -14,4 +14,5 @@ My name is Yue Yang. I am a game developer.
 
 - GitHub: <a href="https://github.com/Yue-Yang" target="_blank">@Yue-Yang</a>
 - Twitter: <a href="https://twitter.com/YueYangDev" target="_blank">@YueYangDev</a>
+- Discord: <a href="https://discord.gg/r28WhZUtK8" target="_blank">ChatGPT Siri</a>
 - WeChat: YueYangDev
