@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Yue Yang. I am a game developer.
+My name is Yue Yang. I am a developer.
 
 ## Project
 
